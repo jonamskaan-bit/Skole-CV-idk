@@ -1,4 +1,4 @@
-body, h1, h2, p, ul, li {
+body, h1, h2, p {
   margin: 0;
   padding: 0;
 }
@@ -10,14 +10,14 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #D57D35;
   font-size: 28px;
   margin-bottom: 10px;
 }
 
 nav ul {
   list-style: none;
-  color: #D57D35;
+  margin: 300px;
 }
 
 
